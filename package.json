@@ -1,0 +1,11 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node test.js"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "sftp-upload": "^1.0.3"
+  }
+}
